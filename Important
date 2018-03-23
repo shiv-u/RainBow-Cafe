@@ -1,0 +1,2 @@
+While transfering data from one activity to another activity i have used hard coded strings because i couldn't send the strings from card 
+views dynamically so i have send them statically.
